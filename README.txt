@@ -1,1 +1,1 @@
-在android 中開啟GBook連結
+this app will open gbook link in android
