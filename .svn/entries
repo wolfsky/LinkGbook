@@ -1,0 +1,91 @@
+8
+
+dir
+3208
+svn://192.168.1.166/Android/App/LinkGbook
+svn://192.168.1.166
+
+
+
+2010-03-26T09:14:42.877000Z
+3208
+kevin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+14dcb4fb-91d8-b848-8d5f-665834ed7738
+
+default.properties
+file
+3209
+
+
+
+2010-03-26T08:51:25.890625Z
+38c55e571b5c07b175157e8005dbc45d
+2010-03-26T09:16:09.892625Z
+3209
+kevin
+
+.classpath
+file
+3209
+
+
+
+2010-03-26T08:51:25.890625Z
+8ec20b14df17ef83253beda6c391f516
+2010-03-26T09:16:09.892625Z
+3209
+kevin
+
+assets
+dir
+
+.project
+file
+3209
+
+
+
+2010-03-26T08:51:25.828125Z
+e6cf40f08fa547679e9add0f032901b9
+2010-03-26T09:16:09.892625Z
+3209
+kevin
+
+AndroidManifest.xml
+file
+3209
+
+
+
+2010-03-26T08:51:25.875000Z
+c574b749940b739d85943e5f0550bef4
+2010-03-26T09:16:09.892625Z
+3209
+kevin
+
+src
+dir
+
+bin
+dir
+
+gen
+dir
+
+res
+dir
+
