@@ -1,1 +1,1 @@
-test
+在android 中開啟GBook連結
